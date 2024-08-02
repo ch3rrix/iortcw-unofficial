@@ -39,7 +39,7 @@ If you have questions concerning this license or the applicable additional terms
 // ver 1.1b		- TTimo SP linux release (+ MP update)
 // ver 1.2.b5	- Mac code merge in
 // ver 1.3		- patch 2 (02/13/02)
-
+#define STANDALONE
 #ifdef STANDALONE
   #define PRODUCT_NAME			"iofoo3"
   #define BASEGAME			"foobar"
